@@ -1,5 +1,5 @@
 /*
- * $PEKKY Website Config File
+ * $QZAT Website Config File
  */
 
 // Main link (you must change on deploy with your domain name e.g. 'https://pekkycoin.com')
@@ -16,12 +16,12 @@ export const tokenCA = ""; // Token contract
 
 // Page contents
 export default {
-  redLineText: "$PEKKY To The Moon!", // Red bar's text in top of the page
+  redLineText: "$QZAT To The Moon!", // Red bar's text in top of the page
   // Main route (/)
   homeMainSection: {
-    title: "$PEKKY to the Moon",
+    title: "$QZAT to the Moon",
     description:
-      "$PEKKY is a funny cartoon duck mascot. Join the community now and dive into the meme magic!", // The \n component breaks lines if you want to add, you can.
+      "$QZAT is a funny cartoon duck mascot. Join the community now and dive into the meme magic!", // The \n component breaks lines if you want to add, you can.
     buttons: [
       {
         text: tokenCA ? "Buy now" : "Join now",
@@ -34,7 +34,7 @@ export default {
   // Tokenomics route (/tokenomics)
   tokenomicsPage: {
     title: "TOKENOMICS",
-    description: "$PEKKY Tokenomics",
+    description: "$QZAT Tokenomics",
   },
   // Tokenomics route (/roadmap)
   roadmapPage: {

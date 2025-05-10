@@ -38,7 +38,7 @@ export default function TokenomicsPage() {
             <div className="flex flex-row items-center justify-center space-x-2">
               <div className="bg-yellow-400 border border-zinc-900/15 active:scale-[0.98] transition-all ease-linear duration-100 rounded-full w-5 h-5" />
               <span className="font-semibold text-lg mt-1">
-                {"->"} Total Supply: 1 Billion $PEKKY
+                {"->"} Total Supply: 1 Billion $QZAT
               </span>
             </div>
             <div className="flex flex-row items-center justify-center space-x-2">

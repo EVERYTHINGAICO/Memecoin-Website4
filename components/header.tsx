@@ -183,7 +183,7 @@ export default function Header() {
               onClick={() => router.replace("/")}
               className="text-2xl font-semibold cursor-pointer active:scale-[0.98]"
             >
-              $PEKKY
+              $QZAT
             </h1>
           </div>
           <div className="w-full hidden md:flex flex-row items-center justify-center space-x-6">
