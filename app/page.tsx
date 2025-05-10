@@ -22,7 +22,7 @@ export default function HomePage() {
               onClick={() => playDuckSound()}
               draggable="false"
               className="rounded-3xl active:opacity-[98%] active:scale-[0.95] transition-all ease-linear duration-100 cursor-pointer size-[220px]"
-              src="https://pekk-yweb-site.vercel.app/pekky.svg"
+              src="https://media.tenor.com/NQusEbiDSigAAAAj/duck-random.gif"
             />
           </div>
           <div className="flex flex-col mt-[52px] md:ml-9 lg:mt-0 text-start items-start justify-center">
@@ -58,7 +58,7 @@ export default function HomePage() {
               onClick={() => playDuckSound()}
               draggable="false"
               className="rounded-3xl active:opacity-[98%] size-[290px] active:scale-[0.95] transition-all ease-linear duration-100 cursor-pointer"
-              src="https://pekk-yweb-site.vercel.app/pekky.svg"
+              src="https://media.tenor.com/ItN5AuTpXX4AAAAM/chicken.gif"
             />
           </div>
         </section>
